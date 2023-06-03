@@ -1,0 +1,127 @@
+.whole{
+    width: 100%;
+    height: 800px;
+    background-color: #13a0d2;
+    text-align: center;
+}
+.main{   
+    width: 90%;
+    height: 600px;
+    margin-top: 40px;
+    margin-left: 40px;
+    display: flex;
+}
+    
+.header{
+    font-family:headfont;
+    font-size: 50px;
+    color: white;
+}
+@font-face {
+    font-family:headfont;
+    src: url(Oswald/Oswald-VariableFont_wght.ttf);
+}
+.a{
+    width: 30%;
+    height: 580px;
+    margin-left: 20px;
+    background-color: white;
+
+}
+.heading{
+    color: #13a0d2;
+    font-family: Montserrat, sans-serif;
+    margin-top: -300px;
+}
+.b{ 
+    width: 30%;
+    height: 580px;
+    margin-left: 20px;
+    background-color: white;
+}
+.c{
+    width: 30%;
+    height: 580px;
+    margin-left: 20px;
+    background-color: white;
+}
+.aimg{
+    
+    width: 80%;
+    height: 230px;
+    margin-top: 100px;
+    margin-left: 30px;
+    background-image: url(img3.jpg);
+    background-size:cover;
+
+}
+.bimg{
+
+    width: 80%;
+    height: 230px;
+    margin-top: 100px;
+    margin-left: 30px;
+    background-image: url(img1.jpg);
+    background-size: cover;
+
+}
+.cimg{
+   
+    width: 80%;
+    height: 230px;
+    margin-top: 100px;
+    margin-left: 30px;
+    background-image: url(img2.jpg);
+    background-size: cover;
+}
+.subcat{
+    margin-top: 300px;
+}
+.ali1{
+    margin-left: -45px;
+    list-style-type: none; 
+    font-family: 'Open Sans',sans-serif;
+} 
+
+.ali2{
+    margin-left: 30px;
+    list-style-type: none;  
+    font-family: 'Open Sans',sans-serif;
+}
+
+.ali3{
+    margin-left: -30px;
+    list-style-type: none;
+    font-family: 'Open Sans',sans-serif;
+}  
+
+.ali4{
+    margin-left: -80px;
+    list-style-type: none; 
+    font-family: 'Open Sans',sans-serif;
+} 
+
+.r5{
+    
+    color:forestgreen;
+}
+.t6{
+    margin-left: 10px;
+}
+.abut{
+    margin-top: 40px;
+    width: 35%;
+    height: 40px;
+    font: bold;
+    font-size: 15px;
+    background-color: #13a0d2;
+    border-color: white;
+ color: #ffffff
+}
+.abut:hover{
+    background-color: #144c61;
+    cursor: pointer;
+    font-family: 'Open Sans',sans-serif;
+}
+ 
+
